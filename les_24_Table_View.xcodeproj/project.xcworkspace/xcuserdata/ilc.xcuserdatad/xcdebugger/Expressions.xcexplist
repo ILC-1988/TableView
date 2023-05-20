@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.tableView(_:commit:forRowAt:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataArray">
+            </PersistentString>
+            <PersistentString
+               value = "ViewController.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InfoView.initInfo():InfoView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "fioLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewInfoView.save():NewInfoView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.job!">
+            </PersistentString>
+            <PersistentString
+               value = "data.status">
+            </PersistentString>
+            <PersistentString
+               value = "jobTextField.text!">
+            </PersistentString>
+            <PersistentString
+               value = "dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.load():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(_:numberOfRowsInSection:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataArray.count">
+            </PersistentString>
+            <PersistentString
+               value = "load()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
